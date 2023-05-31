@@ -25,6 +25,7 @@ public class UniqueNumberOccurence {
         int[] arr ={1,2,3,6,8};
 
         System.out.println(uniqueOccurrences(arr));
+        System.out.println("Test");
     }
     }
 
